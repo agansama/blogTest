@@ -5,4 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
-_multiconfig.yml
+docs/
+
+source/_data/book.yml
